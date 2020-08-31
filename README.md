@@ -12,8 +12,15 @@ Search: Ajax
 Username: admin
 Password: 12345
 
+## Download Zip file And extract in you folder
+netmeds.zip
+
+## chnages Base url
+netmeds/application/config/congif.php  $config['base_url']
+
 ## Database setup
+Import Database 
 
-Import Database
-
+## changes Database User and Password
+netmeds/application/config/database.php 
 
